@@ -260,18 +260,17 @@ header nav ul li a:hover {
 }
 #solution div.best {
   text-align: center;
-} 
+}
 #solution div.best h6 {
   color: #ff7a00;
 }
 #solution div.best h3 {
+  font-size: 40px;
 
-font-size: 40px;
-
-font-weight: bold;
+  font-weight: bold;
 }
 #solution div.best h3 span {
-  color: #ff7a00
+  color: #ff7a00;
 }
 #solution div.best p {
   color: #b0b0b0;
@@ -284,14 +283,11 @@ font-weight: bold;
 /* logistic start */
 
 #logistics {
-
   padding: 80px 0;
 }
 #logistics section.wrapper {
-
 }
 #logistics section.container {
-
 }
 #logistics section.container ul {
   display: flex;
@@ -301,19 +297,33 @@ font-weight: bold;
 #logistics section.container ul li {
   width: 45%;
   display: flex;
+  box-shadow: 0 0 3px 0 rgb(0 0 0 / 18%);
+  padding: 50px;
+  border-radius: 20px;
+  margin-bottom: 30px;
+}
+#logistics section.container ul li:hover {
+  background: #fff;
+  box-shadow: 0 0 53px -11px rgb(0 0 0 / 20%);
 }
 #logistics section.container ul li div.img_ar {
-
 }
 #logistics section.container ul li div.img_ar div.img_br {
-
+  width: 50px;
 }
 #logistics section.container ul li div.img_ar div.img_br img {
-
+  display: block;
+  width: 100%;
 }
-#logistics section.container ul li h2 {
-
+#logistics section.container ul li div.content {
+  margin-left: 55px;
 }
-#logistics section.container ul li p {
-
+#logistics section.container ul li div.content h2 {
+  font-size: 22px;
+  font-weight: bold;
+  margin-bottom: 11px;
+}
+#logistics section.container ul li div.content p {
+  font-size: 15px;
+  color: #b0b0b0;
 }
