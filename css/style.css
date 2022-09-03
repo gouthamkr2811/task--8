@@ -86,7 +86,6 @@ br.clear {
 /* main */
 #main {
   background: url(../Assets/background\ -\ spotlight.svg);
-  /* height: 100vh; */
   background-size: cover;
   width: 100%;
 }
@@ -199,12 +198,13 @@ header nav ul li a:hover {
 #solution {
   background: url(../Assets/background\ -\ thoran.svg) no-repeat;
   background-size: 700px;
-  background-position-x: -50px;
+  background-position-x: -157px;
+  background-position-y: 384px;
 }
 #solution section.wrapper {
 }
 #solution section.container {
-  padding-top: 200px;
+  padding-top: 375px;
   display: flex;
   justify-content: space-between;
 }
@@ -422,3 +422,89 @@ margin-bottom: 40px;
   font-weight: bold;
   color: #ff7a00;
 }
+
+/* middle end */
+
+/* world map start*/
+#world_map{
+	padding-top: 55px;
+}
+#world_map div.map{
+	position: relative;
+}
+#world_map div.map img.img_one {
+	width: 100%;
+	display: block;
+}
+#world_map div.map img {
+	width: 30px;
+}
+#world_map div.map img.img_two {
+	position: absolute;
+	top: 31px;
+	left: 261px;
+}
+#world_map div.map img.img_three {
+	position: absolute;
+	top: 95px;
+	left: 190px;
+}
+#world_map div.map img.img_four {
+	position: absolute;
+	top: 219px;
+	left: 286px;
+}
+#world_map div.map img.img_five {
+	position: absolute;
+	bottom: 176px;
+	left: 387px;
+}
+#world_map div.map img.img_six {
+	position: absolute;
+	bottom: 357px;
+	left: 642px;
+}
+#world_map div.map img.img_seven {
+	position: absolute;
+	bottom: 310px;
+	right: 389px;
+}
+#world_map div.map img.img_eight {
+	position: absolute;
+	top: 100px;
+	right: 435px;
+}
+#world_map div.map div {
+	padding: 4px 15px;
+	border-radius: 4px;
+	background: #fff;
+	display: inline-block;
+	text-align: center;
+	box-shadow: 0 0 17px 4px rgba(0, 0, 0, 0.1);
+	box-sizing: border-box;
+}
+#world_map div.map div.africa {
+	position: absolute;
+	top: 130px;
+	left: 175px;
+}
+#world_map div.map div.london {
+	position: absolute;
+	bottom: 283px;
+	right: 370px;
+}
+#world_map div.map div.america {
+	position: absolute;
+	top: 137px;
+  right: 423px;
+}
+#world_map div.map div h6 {
+	color: #FF7A00;
+	font-size: 7px;
+}
+#world_map div.map div p {
+	color: #aaa;
+	font-size: 6px;
+}
+
+/* world map end */
