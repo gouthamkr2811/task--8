@@ -86,13 +86,15 @@ br.clear {
 /* main */
 #main {
   background: url(../Assets/background\ -\ spotlight.svg);
-  height: 100vh;
+  /* height: 100vh; */
   background-size: cover;
+  width: 100%;
 }
 header {
   display: flex;
   align-items: center;
   padding-top: 30px;
+  justify-content: space-around;
 }
 header h1 {
   width: 80px;
@@ -104,13 +106,13 @@ h1 a img {
   width: 100%;
 }
 nav {
-  margin-left: 350px;
+  width: 60%;
 }
 header nav ul {
   display: flex;
+  justify-content: space-between;
 }
 header nav ul li {
-  margin-right: 50px;
 }
 header nav ul li a {
   font-weight: bold;
@@ -163,7 +165,7 @@ header nav ul li a:hover {
   font-weight: 700;
 }
 #spotlight section.container div.right {
-  width: 40%;
+  width: 60%;
   display: flex;
   position: relative;
 }
@@ -183,7 +185,7 @@ header nav ul li a:hover {
   left: 170px;
 }
 #spotlight section.container div.right div.image_mdm div.vector_two {
-  width: 600px;
+  width: 100%;
 }
 #spotlight section.container div.right div.image_mdm div.vector_two img {
   width: 100%;
@@ -275,4 +277,43 @@ font-weight: bold;
   color: #b0b0b0;
   width: 64%;
   margin: 0 auto;
+}
+
+/* solution end */
+
+/* logistic start */
+
+#logistics {
+
+  padding: 80px 0;
+}
+#logistics section.wrapper {
+
+}
+#logistics section.container {
+
+}
+#logistics section.container ul {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-evenly;
+}
+#logistics section.container ul li {
+  width: 45%;
+  display: flex;
+}
+#logistics section.container ul li div.img_ar {
+
+}
+#logistics section.container ul li div.img_ar div.img_br {
+
+}
+#logistics section.container ul li div.img_ar div.img_br img {
+
+}
+#logistics section.container ul li h2 {
+
+}
+#logistics section.container ul li p {
+
 }
