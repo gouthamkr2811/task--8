@@ -327,3 +327,98 @@ header nav ul li a:hover {
   font-size: 15px;
   color: #b0b0b0;
 }
+#logistics section.container div.boat {
+ text-align: center;
+  
+}
+#logistics section.container div.boat a.button {
+  display: inline-block;
+  background: #fbd573;
+  padding: 16px 40px;
+  border-radius: 31px;
+  font-weight: 700;
+}
+
+/* ligistic end */
+
+/* middle start */
+
+#middle {
+  background: url(../Assets/background\ -\ thoran.svg) no-repeat;
+  background-size: 53%;
+  background-position-x: 134%;
+}
+#middle section.wrapper {
+
+}
+#middle section.container {
+  display: flex;
+  padding: 100px;
+  position: relative;
+  padding-bottom: 170px;
+}
+#middle section.container div.left {
+  width: 50%;
+}
+#middle section.container div.left h5 {
+  color: #ff7a00;
+  margin-bottom: 10px;
+}
+#middle section.container div.left h4 {
+font-size: 35px; 
+font-weight: bold;
+margin-bottom: 10px;
+}
+#middle section.container div.left h4 span {
+  font-size: 35px; 
+font-weight: bold;
+margin-bottom: 10px;
+color: #ff7a00;
+}
+#middle section.container div.left h6 {
+font-size: 35px;
+font-weight: bold;
+margin-bottom: 10px;
+}
+#middle section.container div.left p {
+width: 83%;
+margin-bottom: 40px;
+}
+#middle section.container div.left a.button {
+  display: inline-block;
+  background: #fbd573;
+  padding: 16px 40px;
+  border-radius: 31px;
+  font-weight: 700;
+}
+#middle section.container div.right {
+  width: 50%;
+}
+#middle section.container div.right div.img_hr {
+  position: absolute;
+  right: 52px;
+}
+#middle section.container div.right div.img_hr div.img_lr {
+ width: 490px;
+}
+#middle section.container div.right div.img_hr div.img_lr img {
+  width: 100%;
+  display: block;
+}
+#middle div.bottom {
+  text-align: center;
+  
+
+}
+#middle div.bottom h6 {
+  color: #ff7a00;
+}
+#middle div.bottom h5 {
+  font-size: 25px;
+  font-weight: bold;
+}
+#middle div.bottom h5 span {
+  font-size: 25px;
+  font-weight: bold;
+  color: #ff7a00;
+}
