@@ -414,11 +414,11 @@ margin-bottom: 40px;
   color: #ff7a00;
 }
 #middle div.bottom h5 {
-  font-size: 25px;
+  font-size: 45px;
   font-weight: bold;
 }
 #middle div.bottom h5 span {
-  font-size: 25px;
+  font-size: 45px;
   font-weight: bold;
   color: #ff7a00;
 }
@@ -506,5 +506,209 @@ margin-bottom: 40px;
 	color: #aaa;
 	font-size: 6px;
 }
+#world_map div.test {
+  text-align: center;
+  padding-top: 100px;
+}
+#world_map div.test h6 {
+  font-size: 12px;
+	margin-bottom: 5px;
+	color: #FF7A00;
+}
+#world_map div.test h3 {
+font-size: 40px;
+font-weight: bold;
+}
+#world_map div.test h3 span {
+font-size: 40px;
+font-weight: bold;
+color: #FF7A00;
+}
 
 /* world map end */
+
+/* testimonial start */
+
+#testimonial{
+	padding-top: 175px;
+  background: url("../Assets/background - thoran.png") no-repeat;
+  background-size: 572px;
+  background-position: left -22px bottom -114px;
+}
+#testimonial section. {
+
+}
+#testimonial section.bottom {
+	display: flex;
+	justify-content: space-between;
+	margin-bottom: 80px;
+}
+#testimonial section.bottom div.item {
+	width: 33%;
+	padding: 30px 33px 0;
+}
+#testimonial section.bottom div.item:hover {
+  background: #fff;
+  box-shadow: 0 0 53px -11px rgb(0 0 0 / 20%);
+	border-radius: 18px;
+}
+#testimonial section.bottom div.item.middle:hover {
+  background: #fff;
+  box-shadow: 0 0 53px -11px rgb(0 0 0 / 20%);
+	border-radius: 18px;
+}
+#testimonial section.bottom div.item span {
+	width: 50px;
+	position: relative;
+	display: block;
+}
+#testimonial section.bottom div.item span img {
+	display: block;
+	width: 100%;
+	border-radius: 50px;
+	position: absolute;
+	top: -54px;
+	right: 5px;
+	box-shadow: 0 0 53px -7px rgba(0, 0, 0, 0.1);
+}
+#testimonial section.bottom div.item p {
+	font-size: 15px;
+	width: 80%;
+	color: #aaa;
+	margin: 25px 0 50px;
+}
+#testimonial section.bottom div.item hr.line {
+	border: 0.5px solid #f0efef;
+	margin-bottom: 20px;
+}
+#testimonial section.bottom div.item div.one {
+	display: flex;
+	justify-content: space-between;
+}
+#testimonial section.bottom div.item div.one div.left h4 {
+	color: #080133;
+	font-size: 13px;
+	font-weight: bold;
+}
+#testimonial section.bottom div.item div.one div.left p.one {
+	font-size: 12px;
+	margin-top: 10px;
+}
+#testimonial section.bottom div.item div.one div.right img {
+	width: 20px;
+}
+
+/* testimonial end */
+
+/* resume start */
+
+#resume {
+  background: url(../Assets/background\ -\ work\ for\ us.png) no-repeat;
+  border-radius: 31px;
+  padding: 99px 74px;
+  width: 73%;
+  margin: 0 auto;
+}
+#resume section.wrapper {
+
+}
+#resume section.container  {
+  text-align: center;
+}
+#resume section.container h2 {
+  margin-bottom: 25px;
+	color: #080133;
+  font-weight: bold;
+  font-size: 35px;
+}
+#resume section.container h2 span {
+  color: #FF7A00;
+  font-weight: bold;
+  font-size: 35px;
+}
+#resume section.container p {
+  font-size: 15px;
+  color: #655555;
+  font-weight: bold;
+  width: 80%;
+  margin: 0 auto;
+  margin-bottom: 45px;
+}
+#resume section.container form {
+ display: flex;
+ align-items: center;
+ justify-content: center;
+}
+#resume section.container form div.input_container {
+  position: relative;
+}
+#resume section.container form div.input_container input {
+  background: #fff;
+  border-radius: 10px;
+  width: 620px;
+  height: 65px;
+  padding: 10px;
+  margin-right: 15px;
+  
+}
+#resume section.container form div.input_container button {
+  position: absolute;
+  right: 26px;
+  bottom: 26px;
+  display: inline-block;
+  width: 20px;
+}
+#resume section.container form div.input_container button img {
+  display: block;
+  width: 100%;
+}
+#resume section.container a.button {
+  background: #080133;
+  padding: 21px 36px;
+  border-radius: 10px;
+  display: inline-block;
+  color: #fff;
+}
+
+/* resume end */
+
+/* footer */
+
+footer {
+
+padding-top: 118px;
+}
+footer div.wrapper {
+
+}
+footer div.container {
+  display: flex;
+}
+footer div.container div.logo_second {
+
+}
+footer div.container div.logo_second div.logo_img {
+
+  width: 75px;
+margin-bottom: 30px;
+}
+footer div.container div.logo_second div.logo_img img {
+  width: 100%;
+  display: block;
+}
+footer div.container div.logo_second p {
+  width: 43%;
+  line-height: 1.8em;
+}
+footer div.container div.item {
+
+}
+footer div.container div.item ul {
+
+}
+footer div.container div.item ul li {
+
+}
+footer div.container div.item ul li span {
+
+}
