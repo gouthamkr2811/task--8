@@ -689,4 +689,7 @@
     div.item2 p {
         font-size: 13px;
     }
+    footer div.container div.item {
+        margin-left: -25px;
+    }
 }
