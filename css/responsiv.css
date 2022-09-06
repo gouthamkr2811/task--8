@@ -1,0 +1,692 @@
+@media all and (max-width: 1380px){
+
+}
+@media all and (max-width: 1280px){
+    #spotlight section.container div.left {
+        width: 45%;
+    }
+    #spotlight section.container div.right div.image_mdm {
+        /* position: absolute; */
+        left: 100px;
+        bottom: -119px;
+    }
+    #spotlight section.container div.left h4 {
+        width: 100%;
+    }
+    #solution section.container div.right h4 { 
+        width: 98%;
+    }
+    #solution section.container div.right {
+        width: 45%;
+    }
+    #logistics section.container ul li {
+        width: 74%;
+    }
+    #solution div.best {
+        padding-top: 128px;
+    }
+    #world_map div.map img.img_five {
+        left: 474px;
+    }
+    #world_map div.map img.img_seven {
+        bottom: 207px;
+        right: 262px;
+    }
+    #world_map div.map div.london {
+        bottom: 189px;
+        right: 246px;
+    }
+    #world_map div.map div.america {
+        top: 130px;
+        right: 419px;
+    }
+    #resume section.container p { 
+        width: 90%;
+    }
+    #resume section.container form div.input_container input {  
+        width: 374px;
+    }
+    footer div.container div.logo_second p {
+        width: 111%;   
+    }
+    div.item2 ul li {
+        margin-right: 43px;
+    }
+}
+@media all and (max-width: 1080px){
+    #spotlight section.container div.left {
+        width: 53%;
+    }
+    #spotlight section.container div.right div.image_md {
+        position: absolute;
+        top: 0px;
+    }
+    #spotlight section.container div.right div.image_md div.vector {
+        width: 250px;
+    }
+    #spotlight section.container div.right div.image_mdm {
+        left: 100px;
+        bottom: -2px;
+    }
+    #solution {
+        background-position-y: 241px;
+    }
+    #solution section.container {
+        padding-top: 166px;
+    }
+    #solution section.container div.right h4 {
+        font-size: 15px;
+    }
+    #middle section.container div.left p {
+        width: 84%;
+        font-size: 13px;
+    }
+    #middle section.container div.right div.img_hr div.img_lr {
+        width: 441px;
+    }
+    #world_map div.map img.img_four {
+        left: 252px;
+    }
+    #testimonial section.bottom div.item p {
+        width: 88%;
+    }
+    #testimonial section.bottom div.item p {
+        width: 93%;
+    }
+}
+
+@media all and (max-width: 980px){
+    header nav ul {
+        /* display: none; */
+    }
+    #spotlight section.container div.left h2 {
+        font-size: 40px;
+    }
+    #spotlight section.container div.left h3 {
+        font-size: 40px;
+    }
+    #spotlight section.container div.left h4 {
+        width: 90%;
+        font-size: 16px;
+    }
+    #spotlight section.container div.right div.image_md {
+        left: -40px;
+    }
+    #spotlight section.container div.right div.image_mdm {
+        left: 63px;
+        bottom: -27px;
+    }
+    header nav ul li a {
+     
+        font-size: 13px;
+        color: #080133;
+        display: inline-block;
+    }
+    #solution {
+        background-size: 503px;
+    }
+    #logistics section.container ul li {
+        width: 90%;
+    }
+    #middle section.container div.right div.img_hr div.img_lr {
+        width: 332px;
+    }
+    #middle section.container {
+        padding-bottom: 170px;
+    }
+    #middle section.container { 
+        padding: 0px;
+    }
+    #world_map {
+        padding-top: 107px;
+    }
+    #middle div.bottom {
+        margin-top: 57px;
+    }
+    #world_map div.map img.img_six {
+        bottom: 282px;
+        left: 465px;
+    }
+    #world_map div.map div.london {
+        bottom: 137px;
+        right: 172px;
+    }
+    #world_map div.map img.img_five {
+        bottom: 154px;
+       
+    }
+    #world_map div.map img.img_seven {
+        bottom: 185px;
+        right: 320px;
+    }
+    #world_map div.map img.img_four {
+        left: 203px;
+    }
+    #world_map div.map div.america {
+        top: 70px;
+        right: 181px;
+    }
+    #world_map div.map img.img_six {
+        bottom: 267px;
+        left: 465px;
+    }
+    #world_map div.map img.img_three {
+        top: 35px;
+        left: 102px;
+    }
+    #world_map div.map div.africa {
+        top: 64px;
+        left: 89px;
+    }
+    #world_map div.map img.img_eight {
+        top: 100px;
+        right: 511px;
+    }
+    #world_map div.map img.img_two {
+        top: -15px;
+        left: 183px;
+    }
+    #testimonial section.bottom div.item div.one div.right img {
+        width: 9px;
+    }
+    #testimonial section.bottom div.item p {
+        width: 88%;
+        font-size: 10px;
+    }
+    #testimonial {
+        background-size: 392px;
+        background-position: left -83px bottom -114px;
+    }
+    #resume section.container p {
+        font-size: 13px;
+        width: 95%;
+    }
+    #resume section.container form div.input_container input {
+        width: 321px;
+    }
+    #resume {
+        width: 88%;   
+    }
+    footer div.container div.logo_second p {
+        font-size: 11px;
+    }
+    footer div.container div.item ul li {
+        font-size: 11px;
+       
+    }
+    div.item2 p {
+       
+        width: 97%;
+        font-size: 11px;
+    }
+    div.item2 ul li a::after {
+        height: 48px;
+        width: 49px;
+        top: -14px;
+        left: -18px;
+      
+    }
+    div.item2 ul {
+        
+        margin-left: -20px;
+        width: 153%;
+    }
+    div.item2 ul li a {
+        width: 100%;
+    }
+    
+    }
+@media all and (max-width: 768px){
+    #spotlight section.container div.right div.image_md div.vector {
+        width: 184px;
+    }
+    #spotlight section.container {
+        padding-top: 79px;
+    }
+    header nav ul li a {
+        font-size: 12px;
+    }
+    #spotlight section.container div.right div.image_mdm {
+        left: 18px;
+        bottom: 22px;
+    }
+    #spotlight section.container div.left h2 {
+        font-size: 35px;
+    }
+    #spotlight section.container div.left h3 {
+        font-size: 35px;
+    }
+    #spotlight section.container div.left h4 {
+        width: 86%;
+        font-size: 15px;
+    }
+    #spotlight section.container div.left a.button {
+        padding: 15px 45px;
+        font-size: 13px;
+    }
+    #solution section.container {
+        padding-top: 80px;
+    }
+    #solution {
+        background-position-y: 118px;
+        background-size: 480px;
+    }
+    #solution section.container div.right h4 {
+        font-size: 12px;
+    }
+    #solution section.container div.right a.button { 
+        padding: 10px 23px;
+        font-size: 14px;
+    }
+    #solution div.best p {
+        width: 75%;
+        font-size: 13px;
+    }
+    #logistics section.container ul li div.content p {
+        font-size: 12px;
+    }
+    #logistics section.container div.boat a.button {
+        padding: 13px 31px;
+        font-size: 11px;
+    }
+    #middle section.container div.left h4 span {
+        font-size: 20px;
+    }
+    #middle section.container div.left h4 {
+        font-size: 25px;
+    }
+    #middle section.container div.left h6 {
+        font-size: 22px;
+    }
+    #middle section.container div.left p {
+        width: 84%;
+        font-size: 11px;
+    }
+    #middle section.container div.right div.img_hr div.img_lr {
+        width: 280px;
+    }
+    #middle section.container div.left a.button {
+        padding: 12px 28px;
+        font-size: 12px;
+    }
+    #middle div.bottom h5 span {
+        font-size: 25px;
+    }
+    #middle div.bottom h5 {
+        font-size: 25px;
+    }
+    #world_map {
+        padding-top: 65px;
+    }
+    #world_map div.map img.img_six {
+        bottom: 227px;
+        left: 384px;
+    }
+    #world_map div.map div.america {
+        top: 53px;
+        right: 146px;
+    }
+    #world_map div.map img.img_five {
+        bottom: 137px;
+        left: 390px;
+    }
+    #world_map div.map div.london {
+        bottom: 122px;
+        right: 141px;
+    }
+    #world_map div.map img.img_four {
+        left: 163px;
+        top: 185px;
+    }
+    #world_map div.map img.img_seven {
+        bottom: 195px;
+        right: 263px;
+    }
+    #world_map div.map img.img_eight {
+        top: 100px;
+        right: 421px;
+    }
+    #solution section.container div.right h3 span {
+        font-size: 25px;
+    }
+    #solution section.container div.right h3 {
+        font-size: 25px;
+    }
+    #testimonial section.bottom div.item div.one div.right img {
+    }
+    #testimonial {
+        padding-top: 100px;
+    }
+    #testimonial section.bottom {
+        flex-wrap: wrap;
+        flex-direction: column;
+        align-items: center;
+    }
+    #testimonial section.bottom div.item {
+        width: 51%;
+        margin-bottom: 35px;
+    }
+    #testimonial section.bottom div.item p {
+        width: 100%;
+        font-size: 13px;
+    }
+    #testimonial section.bottom div.item:hover {
+        width: 83%;
+    }
+    #testimonial section.bottom div.item div.one div.right img {
+        width: 20px;
+    }
+    #testimonial {
+        background-size: 465px;
+    }
+    #resume section.container p {
+        font-size: 12px;
+        width: 100%;
+    }
+    #resume section.container form div.input_container input {
+    padding: 25px;
+    height: 50px;
+    }
+    #resume section.container form div.input_container button {
+        bottom: 18px;
+    }
+    #resume section.container a.button {
+        padding: 16px 22px;
+        font-size: 14px;
+    }
+    footer div.container div.logo_second p {
+        font-size: 7px;
+    }
+    footer div.container div.logo_second div.logo_img {
+        width: 55px;
+        margin-bottom: 30px;
+    }
+    footer div.container div.item ul li {
+        font-size: 10px;
+    }
+    div.item2 ul {
+            margin-left: -53px;
+            width: 190%;
+        }
+    }
+    div.item2 ul li a::after {
+        height: 39px;
+        width: 39px;
+        top: -14px;
+        left: -13px;
+    }
+    div.copyrights h6 { 
+        font-size: 13px;
+    }
+@media all and (max-width: 640px){
+    header nav ul li {
+        display: none;
+    }
+    #spotlight section.container div.right div.image_md div.vector img {
+        display: none;
+    }
+    #spotlight section.container div.right div.image_mdm div.vector_two img {
+        display: none;
+    }
+    #spotlight section.container div.left h4 {
+        width: 157%;
+        font-size: 17px;
+    }
+    #solution section.container div.left div.image_more div.image_left img {
+        display: none;
+    }
+    #solution section.container div.left {
+        width: 0%;
+    }
+    #solution section.container div.right {
+        width: 91%;
+    }
+    #solution div.best {
+        padding-top: 70px;
+    }
+    #solution div.best h3 {
+        margin-bottom: 15px;
+    }
+    #logistics section.container ul li div.content p {
+        font-size: 10px;
+    }
+    #logistics section.container ul li div.content h2 {
+        font-size: 16px;
+        font-weight: bold;
+        margin-bottom: 11px;
+    }
+    #middle section.container div.right {
+        width: 0%;
+    }
+    #middle section.container div.right div.img_hr div.img_lr img {
+        display: none;
+    }
+    #middle section.container div.left {
+        width: 100%;
+    }
+    #world_map div.map img.img_eight {
+        top: 117px;
+        right: 285px;
+    }
+    #world_map div.map img.img_six {
+        bottom: 177px;
+        left: 306px;
+    }
+    #world_map div.map img.img_five {
+        bottom: 84px;
+        left: 292px;
+    }
+    #world_map div.map div.america {
+        top: 119px;
+        right: 94px;
+    }
+    #world_map div.map div.london {
+        bottom: 163px;
+        right: 81px;
+    }
+    #world_map div.map img.img_three {
+        top: 16px;
+        left: 55px;
+    }
+    #world_map div.map div.africa {
+        top: 42px;
+        left: 41px;
+    }
+    #world_map div.map img.img_seven {
+        bottom: 194px;
+        right: 290px;
+    }
+    #world_map div.map img.img_two {
+        top: 5px;
+        left: 222px;
+    }
+    #world_map div.map img.img_four {
+        left: 206px;
+        top: 80px;
+    }
+    #resume {
+        width: 100%;
+    }
+    #resume section.container h2 {
+        font-size: 25px;
+    }
+    #resume section.container form div.input_container input {
+        width: 225px;
+    }
+    footer div.container {
+        flex-wrap: wrap;
+        flex-direction: column;
+        align-items: center;
+    }
+    footer div.container div.logo_second p {
+        font-size: 16px;
+    }
+    footer div.container div.item ul li {
+        font-size: 20px;
+    }
+    div.item2 h5 {
+        font-size: 20px;
+    }
+    div.item2 p {
+        font-size: 16px;
+    }
+    div.item2 ul {
+        margin-left: 80px;
+        width: 55%;
+    }
+    div.item2 ul li a::after {
+        height: 40px;
+        width: 42px;
+        top: -11px;
+        left: -13px;
+    }
+    footer div.container div.item {
+        margin-left: 27px;
+    }
+    footer div.container div.logo_second p {
+        font-size: 16px;
+        width: 125%;
+    }
+}
+@media all and (max-width: 480px){
+    #spotlight section.container div.left h2 {
+        font-size: 25px;
+    }
+    #spotlight section.container div.left h3 {
+        font-size: 24px;
+    }
+    #spotlight section.container div.left h4 {
+        width: 159%;
+       
+    }
+    #spotlight section.container div.left a.button {
+        padding: 13px 46px;
+        font-size: 9px;
+    }
+    #logistics section.container ul li div.img_ar div.img_br {
+        width: 35px;
+    }
+    #logistics section.container ul li div.content {
+        margin-left: 20px;
+    }
+    #logistics section.container ul li div.content p {
+        font-size: 12px;
+    }
+    #spotlight section.container {
+        padding-left: 54px;
+        width: 100%;
+    }
+    #solution section.container {
+        padding-top: 10px;
+    }
+    #solution {
+        background-position-y: 40px;
+        
+    }
+    #solution div.best p {
+        width: 89%;
+        
+    }
+    #spotlight section.container div.right {
+        width: 0%;
+       
+    }
+    #world_map div.map img.img_seven {
+        display: none;
+    }
+    #world_map div.map img.img_six {
+        display: none;
+    }
+    #world_map div.map img.img_five {
+        display: none;
+    }
+    #world_map div.map img.img_eight {
+        top: 117px;
+        right: 215px;
+    }
+    #world_map div.map div.london {
+        bottom: 105px;
+        right: 56px;
+    }
+    #world_map div.map div.america {
+        top: 111px;
+        right: 72px;
+    }
+    #testimonial section.bottom div.item {
+        width: 83%;
+        margin-bottom: 60px;
+    }
+    #testimonial section.bottom div.item div.one {
+        display: flex;
+        flex-direction: column;
+        justify-content: space-between;
+    }
+    #testimonial section.bottom div.item div.one div.left p.one {
+        margin: 0px 0px 10px;
+    }
+    #testimonial section.bottom div.item p {
+        font-size: 15px;
+        width: 80%;
+        color: #aaa;
+        margin: 25px 0 25px;
+    }
+}
+@media all and (max-width: 360px){
+    #spotlight section.container div.left a.button {
+        padding: 13px 35px;
+        font-size: 10px;
+    }
+    #spotlight section.container div.left h2 {
+        font-size: 22px;
+    }
+    #spotlight section.container div.left h3 {
+        font-size: 21px;
+    }
+    #logistics section.container ul li div.content p {
+        font-size: 9px;
+    }
+    #world_map div.map img.img_eight {
+        top: 95px;
+        right: 187px;
+    }
+    #world_map div.map div.america {
+        top: 108px;
+        right: 38px;
+    }
+    #world_map div.map div.london {
+        bottom: 85px;
+        right: 20px;
+    }
+    #testimonial section.bottom div.item p {
+        font-size: 9px;
+       
+    }
+    #resume section.container h2 span {
+        font-size: 25px;
+    }
+    #resume section.container p {
+        font-size: 10px;
+        
+    }
+    #resume section.container form div.input_container input {
+        width: 202px;
+    }
+    footer div.container div.logo_second p {
+        font-size: 11px;
+        
+    }
+    footer div.container div.item ul li {
+        font-size: 14px;
+    }
+    footer div.container div.logo_second p {
+        font-size: 11px;
+        margin-bottom: 30px;
+    }
+    div.item2 ul {
+        
+        width: 59%;
+    }
+    div.item2 p {
+        font-size: 13px;
+    }
+}
